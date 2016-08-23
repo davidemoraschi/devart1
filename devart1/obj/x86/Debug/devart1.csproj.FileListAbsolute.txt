@@ -1,0 +1,5 @@
+i:\visual studio 2010\Projects\devart1\devart1\bin\Debug\devart1.exe
+i:\visual studio 2010\Projects\devart1\devart1\bin\Debug\devart1.pdb
+i:\visual studio 2010\Projects\devart1\devart1\obj\x86\Debug\ResolveAssemblyReference.cache
+i:\visual studio 2010\Projects\devart1\devart1\obj\x86\Debug\devart1.exe
+i:\visual studio 2010\Projects\devart1\devart1\obj\x86\Debug\devart1.pdb
